@@ -51,3 +51,7 @@
 
 設 `window.__pdfbmTest = true` 再執行 → 不跳確認、不下載，結果放在 `window.__pdfbmResult`、`window.__pdfbmBlob`、`window.__pdfbmList`。
 `'print'` 強制走列印；`'pdf'` 有被擋的頁時只輸出抓得到的頁。
+
+## 授權
+
+[MIT](LICENSE)
